@@ -54,9 +54,9 @@ function data(result, word){
 
         }else{
 
-            synonyms.parentElement.style.display = “block”;
+            synonyms.parentElement.style.display = “ block ”;
 
-            synonyms.innerHTML = “”;
+            synonyms.innerHTML = “ ”;
 
             for (let i = 0; i < 5; i++) {
 
